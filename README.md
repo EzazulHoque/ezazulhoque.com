@@ -1,1 +1,1 @@
-thegamereview.io
+ezazulhoque.com
