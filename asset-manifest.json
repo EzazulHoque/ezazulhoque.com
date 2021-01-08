@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bca81091.chunk.css",
+    "main.js": "/static/js/main.d7c857e3.chunk.js",
+    "main.js.map": "/static/js/main.d7c857e3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9fc3b712.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9fc3b712.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.93d0f71c.chunk.js": "/static/js/2.93d0f71c.chunk.js",
+    "static/js/2.93d0f71c.chunk.js.map": "/static/js/2.93d0f71c.chunk.js.map",
+    "static/js/3.cccce40e.chunk.js": "/static/js/3.cccce40e.chunk.js",
+    "static/js/3.cccce40e.chunk.js.map": "/static/js/3.cccce40e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.bca81091.chunk.css.map": "/static/css/main.bca81091.chunk.css.map",
+    "static/js/2.93d0f71c.chunk.js.LICENSE.txt": "/static/js/2.93d0f71c.chunk.js.LICENSE.txt",
+    "static/media/Resume_Ezazul_Hoque.4780095a.pdf": "/static/media/Resume_Ezazul_Hoque.4780095a.pdf",
+    "static/media/bt.f132cb79.png": "/static/media/bt.f132cb79.png",
+    "static/media/cpp.c6a5e9be.png": "/static/media/cpp.c6a5e9be.png",
+    "static/media/css.5da907d7.svg": "/static/media/css.5da907d7.svg",
+    "static/media/elt.94b783e0.png": "/static/media/elt.94b783e0.png",
+    "static/media/eml.ba46d0ca.svg": "/static/media/eml.ba46d0ca.svg",
+    "static/media/end.88771cb6.png": "/static/media/end.88771cb6.png",
+    "static/media/ezazf.bc817cef.png": "/static/media/ezazf.bc817cef.png",
+    "static/media/flt.7b71c3b5.png": "/static/media/flt.7b71c3b5.png",
+    "static/media/hc.a79f149e.gif": "/static/media/hc.a79f149e.gif",
+    "static/media/hm.c1e91e40.svg": "/static/media/hm.c1e91e40.svg",
+    "static/media/html.aff8a9cb.svg": "/static/media/html.aff8a9cb.svg",
+    "static/media/js.bfea1473.png": "/static/media/js.bfea1473.png",
+    "static/media/nd.4e97577b.png": "/static/media/nd.4e97577b.png",
+    "static/media/ola.6bed5f6c.png": "/static/media/ola.6bed5f6c.png",
+    "static/media/rct.3adc4d15.svg": "/static/media/rct.3adc4d15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fc3b712.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.93d0f71c.chunk.js",
+    "static/css/main.bca81091.chunk.css",
+    "static/js/main.d7c857e3.chunk.js"
+  ]
+}
